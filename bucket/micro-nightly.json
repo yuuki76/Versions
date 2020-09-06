@@ -1,0 +1,15 @@
+{
+    "version": "2.0.7-dev.82",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/zyedidia/micro/releases/download/nightly/micro-2.0.7-dev.82-win64.zip",
+            "hash": "b4df4790a04b68e4a0a689595ee0e33a38defdd10511d7ed9503af0fd322837e"
+        },
+        "32bit": {
+            "url": "https://github.com/zyedidia/micro/releases/download/nightly/micro-2.0.7-dev.82-win32.zip",
+            "hash": "4320bbc4983715fa935a70a2be6fa961f01531893e844ccf0a71d071ee9922a3"
+        }
+    },
+    "extract_dir": "micro-2.0.7-dev.82",
+    "bin": "micro.exe"
+}
